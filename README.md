@@ -2,7 +2,7 @@
 
 Este repositório contém os projetos desenvolvidos nas disciplinas de **Banco de Dados 1 e 2**, com foco na integração de sistemas backend com bancos de dados, além de praticar conceitos de gestão de dados e desenvolvimento de aplicações web. Os trabalhos são descritos a seguir:
 
-## 📚 **1. Livraria Virtual - Backend** (Banco de Dados 1)
+## **1. Livraria Virtual - Backend** (Banco de Dados 1)
 Este projeto tem como objetivo o desenvolvimento do backend de uma **livraria virtual**, oferecendo aos clientes uma experiência de compra online eficiente. A aplicação permite que os usuários naveguem pelo catálogo de livros, adicionem itens ao carrinho de compras e finalizem suas compras. 
 
 ### Funcionalidades:
@@ -13,7 +13,7 @@ Este projeto tem como objetivo o desenvolvimento do backend de uma **livraria vi
 
 ---
 
-## 🛍️ **2. Carrinho de Produtos** (Banco de Dados 1)
+## **2. Carrinho de Produtos** (Banco de Dados 1)
 O segundo projeto consiste em uma **aplicação web de carrinho de produtos**, desenvolvida em **Java** com **Spring Boot**, com foco em gestão de produtos e interação com o banco de dados. O sistema permite o cadastro, listagem, edição e remoção de produtos, além de gerenciar a adição e remoção de itens no carrinho de compras.
 
 ### Funcionalidades:
